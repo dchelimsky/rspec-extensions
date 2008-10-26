@@ -4,6 +4,8 @@
 
 == DESCRIPTION:
 
+PRE ALPHA!
+
 Experimental features that may or may not end up in rspec proper someday. Use at your own risk and/or pleasure.
 
 == FEATURES:
