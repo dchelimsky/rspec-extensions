@@ -1,0 +1,5 @@
+== Development
+
+* 1 major enhancement:
+
+  * initial support for expect syntax based on Jay Fields' expectations library

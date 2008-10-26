@@ -1,0 +1,13 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/rspec-extensions.rb
+lib/rspec-extensions/expectations.rb
+script/console
+script/destroy
+script/generate
+script/txt2html
+spec/helper.rb
+spec/rspec-extensions/expectations_spec.rb
+spec/spec.opts
